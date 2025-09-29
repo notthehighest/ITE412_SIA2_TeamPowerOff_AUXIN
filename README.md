@@ -2,6 +2,7 @@
 
 # [Tentative Project Title]
 **Course:** ITP41E – System Integration and Architecture 2
+**Group:** [1] 
 **Team Name:** [TeamPowerOff]  
 **Repository:** [https://github.com/notthehighest/ITE412_SIA2_TeamPowerOff_AUXIN.git]
 ## Team Members & Roles
